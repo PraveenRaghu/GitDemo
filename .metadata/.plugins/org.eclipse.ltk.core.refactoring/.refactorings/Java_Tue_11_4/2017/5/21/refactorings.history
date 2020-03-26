@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Claculator.java&apos; to &apos;FirstClassDemo.Claculator.java&apos;&#x0D;&#x0A;- Original project: &apos;Java_Tue_11_4&apos;&#x0D;&#x0A;- Destination element: &apos;FirstClassDemo.Claculator.java&apos;&#x0D;&#x0A;- Original element: &apos;FirstClassDemo.Claculator.java&apos;" description="Copy compilation unit" destination="/src&lt;FirstClassDemo{Claculator.java" element1="/src&lt;FirstClassDemo{Claculator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1495441422400" units="1" version="1.0"/>
+</session>
